@@ -37,3 +37,8 @@ PACKAGES AND LIBRARIES
  * streamlit as st
  * from selenium import webdriver
 
+![Screenshot (9)](https://github.com/user-attachments/assets/2934b30e-d8da-4da6-887f-a832476b6468)
+
+
+![Screenshot (10)](https://github.com/user-attachments/assets/6de770b5-7702-4455-b0fd-be7524ce710c)
+
